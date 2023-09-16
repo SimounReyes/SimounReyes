@@ -1,5 +1,6 @@
 ## Education
 Bachelor of Science in Computer Science 
+
 2021 - Present (New Era University)
 
 ## Certification  
