@@ -1,3 +1,6 @@
+# Simoun Irwin G. Reyes
+
+
 ## Education
 Bachelor of Science in Computer Science 
 
@@ -12,3 +15,10 @@ Bachelor of Science in Computer Science
 
 [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/d748812cd1ca49868f4c78d001750600) by Cognitive Class (November 2, 2022)
 
+## Tech Achievement:
+
+## Skill Set
+* **Programming Languages:** Java, Python
+* **DBMS**: DB2
+* **Dev Tools:** VSCode, Intellij, Lucidchart, Eclipse
+* **Data Visualization Tools:**  PowerBI Desktop, Tableau Public
